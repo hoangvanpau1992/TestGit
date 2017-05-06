@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0E65ABEB1EBD6D1F00B47517 /* StudentDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E65ABEA1EBD6D1F00B47517 /* StudentDetailViewController.swift */; };
 		207830531EBD638A005FAE24 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207830521EBD638A005FAE24 /* AppDelegate.swift */; };
 		207830581EBD638A005FAE24 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 207830561EBD638A005FAE24 /* Main.storyboard */; };
 		2078305A1EBD638A005FAE24 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 207830591EBD638A005FAE24 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0E65ABEA1EBD6D1F00B47517 /* StudentDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StudentDetailViewController.swift; sourceTree = "<group>"; };
 		2078304F1EBD638A005FAE24 /* TestGit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestGit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		207830521EBD638A005FAE24 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		207830571EBD638A005FAE24 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -38,6 +40,7 @@
 		207830461EBD638A005FAE24 = {
 			isa = PBXGroup;
 			children = (
+				0E65ABEA1EBD6D1F00B47517 /* StudentDetailViewController.swift */,
 				207830651EBD6972005FAE24 /* FirstViewController.swift */,
 				207830511EBD638A005FAE24 /* TestGit */,
 				207830501EBD638A005FAE24 /* Products */,
@@ -146,6 +149,7 @@
 			files = (
 				207830531EBD638A005FAE24 /* AppDelegate.swift in Sources */,
 				207830661EBD6972005FAE24 /* FirstViewController.swift in Sources */,
+				0E65ABEB1EBD6D1F00B47517 /* StudentDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -307,6 +311,7 @@
 				207830631EBD638A005FAE24 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
