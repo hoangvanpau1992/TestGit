@@ -24,6 +24,9 @@ class StudentViewController: UIViewController {
         
     }
     
+    func viewDidAppear(_ animated: Bool) {
+        <#code#>
+    }
 
     /*
     // MARK: - Navigation
