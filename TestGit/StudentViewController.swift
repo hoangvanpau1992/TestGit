@@ -35,6 +35,9 @@ class StudentViewController: UIViewController {
     override func viewDidDisappear(_ animated: Bool) {
         <#code#>
     }
+    func loadView() {
+        <#code#>
+    }
     /*
     // MARK: - Navigation
 
