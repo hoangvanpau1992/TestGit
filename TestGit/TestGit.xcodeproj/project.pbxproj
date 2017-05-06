@@ -12,6 +12,7 @@
 		2078305A1EBD638A005FAE24 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 207830591EBD638A005FAE24 /* Assets.xcassets */; };
 		2078305D1EBD638A005FAE24 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2078305B1EBD638A005FAE24 /* LaunchScreen.storyboard */; };
 		207830661EBD6972005FAE24 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207830651EBD6972005FAE24 /* FirstViewController.swift */; };
+		207830681EBD6BEB005FAE24 /* StudentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207830671EBD6BEB005FAE24 /* StudentViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		2078305C1EBD638A005FAE24 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2078305E1EBD638A005FAE24 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		207830651EBD6972005FAE24 /* FirstViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		207830671EBD6BEB005FAE24 /* StudentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StudentViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +41,7 @@
 			isa = PBXGroup;
 			children = (
 				207830651EBD6972005FAE24 /* FirstViewController.swift */,
+				207830671EBD6BEB005FAE24 /* StudentViewController.swift */,
 				207830511EBD638A005FAE24 /* TestGit */,
 				207830501EBD638A005FAE24 /* Products */,
 			);
@@ -144,6 +147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				207830681EBD6BEB005FAE24 /* StudentViewController.swift in Sources */,
 				207830531EBD638A005FAE24 /* AppDelegate.swift in Sources */,
 				207830661EBD6972005FAE24 /* FirstViewController.swift in Sources */,
 			);
